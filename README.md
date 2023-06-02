@@ -1,2 +1,2 @@
-# an-lise-explorat-ria-de-dados
+# analise-exploratoria-de-dados
 Análise exploratória dos dados da Loggi
